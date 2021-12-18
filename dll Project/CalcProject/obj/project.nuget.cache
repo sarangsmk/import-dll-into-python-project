@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hABnpd1M23unfqaMR2aMFtO5H9MEk8gfzUByLi3NWONk/Fz+m80qh1RaLhPKC3DJ6of2rQGI8aTUWXw0g6ialQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SMK\\source\\repos\\CalcNamespace\\CalcProject\\CalcProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SMK\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\SMK\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

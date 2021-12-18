@@ -1,0 +1,9 @@
+C:\Users\SMK\source\repos\CalcNamespace\CalcProject\bin\Debug\netstandard2.0\CalcProject.deps.json
+C:\Users\SMK\source\repos\CalcNamespace\CalcProject\bin\Debug\netstandard2.0\CalcProject.dll
+C:\Users\SMK\source\repos\CalcNamespace\CalcProject\bin\Debug\netstandard2.0\CalcProject.pdb
+C:\Users\SMK\source\repos\CalcNamespace\CalcProject\obj\Debug\netstandard2.0\CalcProject.csprojAssemblyReference.cache
+C:\Users\SMK\source\repos\CalcNamespace\CalcProject\obj\Debug\netstandard2.0\CalcProject.csproj.CoreCompileInputs.cache
+C:\Users\SMK\source\repos\CalcNamespace\CalcProject\obj\Debug\netstandard2.0\CalcProject.AssemblyInfoInputs.cache
+C:\Users\SMK\source\repos\CalcNamespace\CalcProject\obj\Debug\netstandard2.0\CalcProject.AssemblyInfo.cs
+C:\Users\SMK\source\repos\CalcNamespace\CalcProject\obj\Debug\netstandard2.0\CalcProject.dll
+C:\Users\SMK\source\repos\CalcNamespace\CalcProject\obj\Debug\netstandard2.0\CalcProject.pdb
