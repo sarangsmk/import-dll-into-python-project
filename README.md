@@ -6,7 +6,7 @@ Importing a custom dll built with C# into a Python Project and access the functi
 * Python Project - The Python project folder
 
 ### Dll Code
-```
+```C#
 namespace CalcProject
 {
     public class calculate
@@ -26,7 +26,7 @@ namespace CalcProject
 ```
 
 ### Python Code
-```
+```python
 import clr
 
 # Add Reference to the library/dll
